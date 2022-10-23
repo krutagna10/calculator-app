@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -61,6 +61,7 @@
       <workItem from="1666461204911" duration="6000" />
       <workItem from="1666490830566" duration="1373000" />
       <workItem from="1666492528473" duration="7000" />
+      <workItem from="1666492550229" duration="139000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1666162033983</created>
@@ -195,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666491696063</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary=".">
+      <created>1666492676527</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1666492676527</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
